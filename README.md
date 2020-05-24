@@ -1,4 +1,4 @@
-# vue-todo-app
+# vue-shopping-list-app
 
 ## Project setup
 ```
