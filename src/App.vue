@@ -93,7 +93,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-  input {
+  input:disabled {
     color: #1b1b1b;
   }
   .strike {
