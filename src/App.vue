@@ -93,6 +93,9 @@
     padding: 0;
     box-sizing: border-box;
   }
+  input {
+    color: #1b1b1b;
+  }
   .strike {
     text-decoration: line-through;
     opacity: 0.3;
